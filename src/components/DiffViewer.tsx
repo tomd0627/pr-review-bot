@@ -30,7 +30,7 @@ export function DiffViewer({ diff, findings }: DiffViewerProps) {
 
   if (files.length === 0) {
     return (
-      <p className="text-[var(--text-muted)] text-sm">
+      <p className="text-[var(--text-secondary)] text-sm">
         No diff content to display.
       </p>
     );
