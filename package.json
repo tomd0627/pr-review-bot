@@ -9,8 +9,8 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^0.98.0",
-    "lucide-react": "^1.16.0",
+    "@anthropic-ai/sdk": "^0.100.1",
+    "lucide-react": "^1.17.0",
     "next": "^16.2.6",
     "parse-diff": "^0.12.0",
     "react": "^19.2.6",
@@ -21,7 +21,7 @@
     "@types/node": "^25.9.1",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "eslint": "^10.4.0",
+    "eslint": "^10.4.1",
     "eslint-config-next": "^16.2.6",
     "tailwindcss": "^4",
     "typescript": "^5"
